@@ -2,7 +2,7 @@
 A basic flask application for sentiment analysis of Altmetrics dataset. An SVM based model is build using sklearn library of python. TfidfVectorizer has been used with BOW features. 
 
 # Installation
-    * pip install flask (see how to create how to create Flask app https://flask.palletsprojects.com/en/1.1.x/installation/)
+    * pip install flask (see how to create Flask app https://flask.palletsprojects.com/en/1.1.x/installation/)
     * export FLASK_APP=sentialtmetrics.py
     * flask run
     
